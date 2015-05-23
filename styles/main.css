@@ -1,0 +1,37 @@
+body{
+	font-family: Verdana, Geneva, sans-serif;
+	background-color: #559955;
+
+}
+
+#top-banner{
+	
+	background-color:#89E894;
+	
+	color:white;
+}
+
+#rec-top{
+	
+	font-weight: 500;
+	font-size: 40px;
+}
+
+#mynav{
+	background-color:#78D783;
+
+}
+
+#my-content{
+	background-color:#89E894;
+
+}
+
+.tips-img{
+	height:100px;
+	width:100px;
+}
+
+ul{
+	list-style-type: lower-roman;
+}
